@@ -1,0 +1,16 @@
+- Counterfactual Regret Minimization
+- MCCFR
+- CFR+
+- Piosolver
+
+
+# Abstractions : 
+-- Bet Size, 
+-- Hand bucketing
+
+Slow playing in poker is a easy enough thing to understand in theory. 
+But training an AI to not do something that it calculates as best, will bve tough and there 
+we use CRM -- Counterfactual Regret Minimization.
+
+
+
